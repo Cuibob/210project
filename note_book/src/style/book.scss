@@ -1,0 +1,22 @@
+.page-book {
+	margin: 10px 10px 0;
+
+	.b-title {
+		margin-bottom: 10px;
+		border-bottom: 1px solid #ebebeb;
+	}
+
+	.b-ueditor {
+		margin-bottom: 10px;
+		border: 1px solid #ebebeb;
+
+		.u-header {
+			padding: 6px 10px;
+			border-bottom: 1px solid #ebebeb;
+		}
+
+		.mint-badge {
+			margin-right: 8px;
+		}
+	}
+}
